@@ -1,5 +1,5 @@
 # Solana-Token-Staking-Smart-Contract
-Token staking smart contract on solana. It supports multi-staking pool creation, user staking, reward claiming so on. Admin can create pool and can set staking token, APY, boost so on about new staking pool. So users can stake to any pool supporting specific token that they have. Also users can claim reward by sol. It's not full code for staking smart contract, feel free to reach out of me when you need smart contract development[telegram: https://t.me/DevCutup or whatsapp: https://wa.me/13137423660].
+Token staking smart contract on solana. It supports multi-staking pool creation, user staking, reward claiming so on. Admin can create pool and can set staking token, APY, boost so on about new staking pool. So users can stake to any pool supporting specific token that they have. Also users can claim reward by sol. It's not full code for staking smart contract, feel free to reach out of me when you need smart contract development[telegram: https://t.me/Kei4650].
 
 ## How to use it
 ### Ready to use 
